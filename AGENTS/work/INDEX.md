@@ -18,3 +18,4 @@ not migrate to a new project.
 | Changing cron schedules: timezone, survey defaults for scheduled tasks | `schedules/INDEX.md` |
 | Adding debug logging or touching the debug filter | `logging/INDEX.md` |
 | Touching the task pool, output streaming, runner polling, DB indexes, or planning a load test | `performance/INDEX.md` |
+| Evaluating a fusion with Komodo into one Rust control plane: strategy, licensing, unified model, agent, WebAssembly, MVP | `komodo-fusion/INDEX.md` |
